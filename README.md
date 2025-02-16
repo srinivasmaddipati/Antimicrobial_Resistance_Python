@@ -9,3 +9,15 @@ Antimicrobial resistance (AMR) occurs when microorganisms, such as bacteria, vir
 Antimicrobial resistance (AMR) poses a significant public health challenge in India, exacerbated by the country's high burden of infectious diseases and substantial antibiotic consumption. In 2019, AMR was associated with approximately 4.95 million deaths globally, with 1.27 million directly attributed to drug-resistant infections. Notably, a significant portion of these deaths occurred in India, underscoring the severity of the issue within the country
 
 This project mainly focuses on the Data analysis on AMR. Data was collected from the official Indian Council of Medical Research (ICMR) website.
+
+
+## Contents
+
+### 1. Data preperation
+
+- Renaming of columns
+  - All columns are renamed with reference to metadata provided with dataset.
+- Replacing numerical values with original values in respective columns
+  - In dataset all numerical data is replaced with catagorical data.
+
+### 2. Data Analysis
