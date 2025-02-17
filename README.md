@@ -21,3 +21,25 @@ This project mainly focuses on the Data analysis on AMR. Data was collected from
   - In dataset all numerical data is replaced with catagorical data.
 
 ### 2. Data Analysis
+
+- Data info
+- Data Cleaning
+- Haneling Null Values
+- Remove unnecessary columns
+- Classification of colum into catagorical and non catagorical
+- Analysis and Visualization
+  - Patients age
+  - Patients Gender
+  - Urban-Rural classification
+  - Infection type
+  - Patients with Devices
+  - Patients by Region
+  - Infection over Time
+  - Antimicrobial Resistance (AMR)
+  - State wise AMR
+  - Location and gender wise Antimicribial resistance
+  - Antimicrobial resistance for Patients with devices
+  - Antimicrobial resistance for Infection type
+  - Antimicrobial resistance for Organism
+  - Antimicrobial Resistance aganist Antibiotics
+
