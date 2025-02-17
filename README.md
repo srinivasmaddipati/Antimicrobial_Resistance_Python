@@ -146,7 +146,6 @@ Health care-associated infections have a notably elevated AMR.
 ![image](https://github.com/user-attachments/assets/dd308f56-10c7-471d-aad3-5bbdd76866b9)
 
 
-## Conclusion
 
 
 
