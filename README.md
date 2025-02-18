@@ -10,7 +10,7 @@ Antimicrobial resistance (AMR) poses a significant public health challenge in In
 
 This project mainly focuses on the Data analysis on AMR. Data was collected from the official Indian Council of Medical Research (ICMR) website.
 
-## Tools used
+## Tools
 - Python
   - Numpy
   - Pandas
