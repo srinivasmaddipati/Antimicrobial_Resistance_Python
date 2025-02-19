@@ -146,8 +146,15 @@ Health care-associated infections have a notably elevated AMR.
 ![image](https://github.com/user-attachments/assets/dd308f56-10c7-471d-aad3-5bbdd76866b9)
 
 
+## Conclusion
 
+Antimicrobial resistance is a multifaceted issue with numerous varied contributing factors. It is a significant cause of health issues imposing cost on oneself and on the community, either directly or indirectly. Prevention remains the best method to minimize the spread of infection and thus AMR. In addition to rational use of currently available antimicrobial drugs, research into new effective compounds and new diagnostic technology is the requirement. Collaborative action on the part of patients, prescribers and individuals to international policy makers and regulators is necessary to combat the worldwide emerging antimicrobial resistance.
 
+## Recomendations
 
-
-
+- Rational use of antibiotics, using them appropriately to treat bacterial infections while minimizing the development of resistance. This helps to keep antibiotics effective for future use.
+- Measures that retain the efficacy of antimicrobials are mostly addressed at over-the-counter (OTC) antibiotics.
+- Antibiotic therapy should be started considering the clinical condition of the patient and prevalent pathogen and resistance pattern in a locality.
+- Standards of hygiene, Use of alcohol-based hand rubs or washing hands has proven efficacy in prevention of infection.
+- Infection prevention and control within health-care facilities.
+- Innovation in new drugs and technology.
