@@ -1,6 +1,9 @@
 # ICMR Antimicrobial Resistance
 Date : 05-02-2025
 
+![image](https://github.com/user-attachments/assets/68bc1326-bc2f-410e-8e94-07cecba08ad1)
+
+
 
 ## Description
 
